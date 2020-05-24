@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gaudete_friend_viewer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gaudete_friend_viewer/static/js/main.6605ed9d.chunk.js",
+    "main.js.map": "/gaudete_friend_viewer/static/js/main.6605ed9d.chunk.js.map",
+    "runtime-main.js": "/gaudete_friend_viewer/static/js/runtime-main.a5e9301d.js",
+    "runtime-main.js.map": "/gaudete_friend_viewer/static/js/runtime-main.a5e9301d.js.map",
+    "static/js/2.36f78e47.chunk.js": "/gaudete_friend_viewer/static/js/2.36f78e47.chunk.js",
+    "static/js/2.36f78e47.chunk.js.map": "/gaudete_friend_viewer/static/js/2.36f78e47.chunk.js.map",
+    "index.html": "/gaudete_friend_viewer/index.html",
+    "precache-manifest.2518762ca5b29957b4e1040af47d024a.js": "/gaudete_friend_viewer/precache-manifest.2518762ca5b29957b4e1040af47d024a.js",
+    "service-worker.js": "/gaudete_friend_viewer/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gaudete_friend_viewer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.36f78e47.chunk.js.LICENSE.txt": "/gaudete_friend_viewer/static/js/2.36f78e47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e9301d.js",
+    "static/js/2.36f78e47.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6605ed9d.chunk.js"
+  ]
+}
